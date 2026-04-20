@@ -1,7 +1,0 @@
-## Logbook
-
-### 1. Mise à jour des dépendances Nilearn
-
-- **Problème :** `nilearn.input_data` est devenu obsolète dans les versions récentes.
-- **Action :** mise à jour des imports vers la nouvelle API Nilearn.
-- **Résultat :** compatibilité restaurée.
