@@ -11,7 +11,7 @@ Mise à jour des imports vers l’API recommandée.
 Résultat :
 Erreur résolue, compatibilité restaurée.
 
-2. Chargement de l’atlas Schaefer
+2. **Chargement de l’atlas Schaefer**
 
 Contexte :
 Transition de l’atlas BASC vers Schaefer pour l’extraction des ROI.
@@ -32,10 +32,11 @@ réduction du nombre de sujets :
 Solution retenue :
 
 exécution du pipeline sur Google Colab pour stabiliser l’environnement computationnel
-3. Modélisation prédictive du ToM (régression)
+
+3. **Modélisation prédictive du ToM (régression)**
 3.1 Configuration initiale
 Régression du score ToM à partir de la connectivité fonctionnelle
-Modèles testés : SVR, Ridge
+Modèles testés : SVR,
 Validation croisée (CV = 10 folds)
 
 Résultat initial :
@@ -94,7 +95,8 @@ Résultat :
 
 performances légèrement améliorées après optimisation
 mais précision globale encore limitée
-4. Visualisation de la connectivité (connectogramme)
+
+4. **Visualisation de la connectivité (connectogramme)**
 4.1 Implémentation initiale
 tentative avec nichord (package externe)
 
@@ -102,6 +104,7 @@ Limitation :
 
 documentation insuffisante
 incompatibilité avec le pipeline MNE
+
 4.2 Implémentation MNE-Connectivity
 
 Solution retenue :
@@ -138,16 +141,15 @@ surcharge visuelle des régions
 Optimisations testées :
 
 ajustement des paramètres vmin / vmax
-regroupement des régions par palette de couleurs adaptée (daltonisme-friendly)
+regroupement des régions par palette de couleurs adaptée pour daltonien.ne.s
 tentative de suppression des labels individuels
 
-Résultat final :
+ajout de connectome  à l'entour du connectogramme
 
-amélioration visuelle partielle
-connectogramme encore difficile à interpréter de manière robuste
+
 5. Synthèse générale
 Pipeline global fonctionnel mais limité par :
-faible taille d’échantillon (N = 85)
+faible taille d’échantillon pour train (N = 85)
 forte dimensionnalité des features
 faible signal prédictif comportemental
 Les différentes optimisations (modèle, features, hyperparamètres) n’ont pas permis d’améliorer significativement les performances de régression
