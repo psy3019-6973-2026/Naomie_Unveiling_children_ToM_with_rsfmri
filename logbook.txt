@@ -1,4 +1,4 @@
-1. Mise à jour des dépendances Nilearn
+1. **Mise à jour des dépendances Nilearn**
 
 Problème :
 Utilisation de nilearn.input_data, devenu obsolète dans les versions récentes.
