@@ -1,0 +1,13 @@
+# invoke.yaml — Configuration du pipeline Rioux_recreation_ToM
+
+# Nom du notebook principal à exécuter
+notebook: Rioux_recreation_ToM.ipynb
+
+# Fichier de dépendances
+requirements_file: requirements.txt
+
+# Dossier où seront sauvegardés les outputs (notebook exécuté, figures, HTML)
+output_data_dir: outputs
+
+# (optionnel) Nom de l'image Docker si tu veux geler l'environnement
+docker_image_name: rioux-tom-pipeline
