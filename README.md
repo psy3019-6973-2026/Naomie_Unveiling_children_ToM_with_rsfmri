@@ -88,4 +88,4 @@ Ce modèle cible spécifiquement 16 ROIs associées à la théorie de l'esprit d
 | Median AE | 0.164 |
 
 > [!CAUTION]
-> C'est le modèle le plus faible testé jusqu'ici. Cibler uniquement les régions ToM connues ne suffit pas — et l'optimisation des hyperparamètres n'y change rien. La connectivité fonctionnelle de ces régions, dans ce jeu de données, ne semble pas prédire le ToM de façon fiable.
+> Ce modèle est le moins performant de tous ceux testés. Cibler uniquement les régions classiquement associées au ToM ne suffit pas et l'optimisation des hyperparamètres n'a pas été tentée étant donné les résultats déjà peu prometteurs. La connectivité fonctionnelle de ces régions ne semble pas prédire le ToM de façon fiable dans ce jeu de données.
