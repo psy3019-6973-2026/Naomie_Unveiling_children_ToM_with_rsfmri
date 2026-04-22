@@ -1,25 +1,15 @@
-# Analyse neuroimagerie
-nilearn
-mne-connectivity
 
-# Machine learning
-scikit-learn
-mlxtend
-
-# Data science de base
-numpy
-pandas
-scipy
-
-# Visualisation
-matplotlib
-seaborn
-
-# Exécution automatique du notebook
-papermill
-jupyter
-nbconvert
-
-# Pipeline
-invoke
-pyyaml
+nilearn # v.0.8.1
+mne-connectivity # v.1.6.1
+scikit-learn # v.0.23.4
+mlxtend # v.0.23.4
+numpy # v.2.0.2
+pandas # 2.2.2
+scipy # 1.16.3
+matplotlib # v.3.10.0
+seaborn # v.0.13.2
+papermill # v.2.7.0
+jupyter # v.1.1.1
+nbconvert # v.7.16.6
+invoke # v.3.0.3
+pyyaml # 6.0.3
