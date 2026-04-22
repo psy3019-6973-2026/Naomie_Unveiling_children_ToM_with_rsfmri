@@ -53,4 +53,6 @@ Voici la matrice de corrélation original
 Voici la matrice de corrélation avec le nouvelle atlas
 <img width="913" height="811" alt="image" src="https://github.com/user-attachments/assets/a142526a-cab2-4630-99eb-50c2b27c9d1a" />
 
-
+# **Tâche 2: ~~Comparer~~ Tester différents modèles**
+> [!WARNING]
+> Puisque tous les R2 étaient au final très mauvais cette tâche a davantage été de l'exploration que de la comparaison
