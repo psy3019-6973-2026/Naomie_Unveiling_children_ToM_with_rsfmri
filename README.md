@@ -114,3 +114,5 @@ Le modèle cerveau entier performe légèrement mieux que le hasard et reste le 
 > [!TIP]
 > J'avais trouver ce blog qui montrait comment comparer des modèles : https://www.maartengrootendorst.com/blog/validate/
 > Comme les modèles n'étaient pas satisfaisant la comparaison n'a pas marcher, mais les informations semblent pertinentes si jamais vos modèles semblent fonctionner!
+
+# **Tâche 3: Création d'un connectogramme**
