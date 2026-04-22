@@ -1,4 +1,4 @@
-# **Description du projet**
+# **Description du projet** :brain:
 Pour ce travail, j'ai choisi le projet Unveiling Children's Theory of Mind with rs-fMRI créé par Wei-Hung Lin, & Syuan-Yu Lin et publié le 1 juin 2023. Ce projet visait à comprendre si la connectivité fonctionnelle peut être utilisée pour prédire la théorie de l'esprit (TdE) chez les enfants. Ce projet utilisait des algorithmes d'apprentissage automatique supervisé appliqués à des données d'IRMf afin de prédire les capacités de ToM chez les enfants.
 
 Un jeu de données d'IRMf au repos prétraité provenant du Nilearn Development fMRI à été sélectionné pour réaliser ce projet. Ce jeu de données d'IRMf-repos est issu d'une étude portant sur le développement de régions cérébrales sociales fonctionnellement spécialisées, dans laquelle les participants regardaient un court métrage durant l'acquisition des données d'IRMf. Tous les enfants ont complété une tâche explicite du TdE conçue sur mesure afin de mesurer leurs capacités de TdE.
@@ -30,9 +30,9 @@ La reproduction de ce projet a rencontré plusieurs obstacles. D'abord, l'atlas 
 De façon surprenante, en revenant à l'atlas BASC original sans **aucune autre modification** du code original, les performances ont chuté davantage (R² = -0.27), ce qui soulève des questions sur la stabilité du pipeline.
 
 > [!CAUTION]
-> Le dépôt original ne contient aucun fichier `requirements.txt`, rendant impossible la reproduction exacte des versions des packages utilisés.
+> Le dépôt original ne contient aucun fichier `requirements.txt`, rendant impossible la reproduction exacte des versions des packages utilisés. :unamused:
 
-## Tentatives d'amélioration
+## Tentatives d'amélioration :thinking:
 
 Plusieurs stratégies ont été explorées pour tenter d'améliorer les performances du modèle, sans succès.
 
@@ -55,4 +55,4 @@ Voici la matrice de corrélation avec le nouvelle atlas
 
 # **Tâche 2: ~~Comparer~~ Tester différents modèles**
 > [!WARNING]
-> Puisque tous les R2 étaient au final très mauvais cette tâche a davantage été de l'exploration que de la comparaison
+> Puisque tous les R² étaient au final très mauvais cette tâche a davantage été de l'exploration que de la comparaison
