@@ -56,3 +56,19 @@ Voici la matrice de corrélation avec le nouvelle atlas
 # **Tâche 2: ~~Comparer~~ Tester différents modèles**
 > [!WARNING]
 > Puisque tous les R² étaient au final très mauvais cette tâche a davantage été de l'exploration que de la comparaison
+
+### 🧠 Modèle DMN (Default Mode Network)
+
+Plutôt que d'utiliser toutes les connexions fonctionnelles, ce modèle se restreint aux connexions intra-DMN, un réseau particulièrement associé aux processus sociaux et à la théorie de l'esprit. L'atlas Schaefer 100 ROIs identifie **26 ROIs appartenant au DMN**, générant **325 features** de connectivité.
+
+| Métrique | Résultat |
+|---|---|
+| R² | -0.51 |
+| Variance expliquée | -0.48 |
+| MAE | 0.196 |
+| Median AE | 0.167 |
+
+> [!CAUTION]
+> Restreindre les features au DMN détériore les performances par rapport au modèle complet (R² = -0.27 → -0.51), suggérant que la connectivité intra-DMN seule n'est pas suffisante pour prédire le ToM chez les enfants.
+
+### 🧠 Modèle ToM Network
