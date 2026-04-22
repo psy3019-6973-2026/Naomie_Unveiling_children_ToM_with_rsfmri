@@ -182,10 +182,9 @@ invoke clean
 | Fichier/Dossier | Description |
 |---|---|
 | `v2_Rioux_recreation_ToM.ipynb` | Notebook final avec toutes les analyses |
-| `Reproduction_Final_Project_Unveiling_the_The...` | Rapport de reproduction |
-| `original_repo_2023/` | Repo original de Lin & Lin (2023) |
+| `original_repo_2023/` | Repo original de Lin & Lin (2023) + rapport de reproduction |
 | `tasks.py` | Pipeline automatisé invoke |
 | `invoke.yaml` | Configuration du pipeline |
 | `requirements.txt` | Dépendances Python |
 | `logbook.md` | Journal de bord du projet |
-| `LICENSE` | license du projet |
+| `LICENSE` | Licence MIT du projet |
