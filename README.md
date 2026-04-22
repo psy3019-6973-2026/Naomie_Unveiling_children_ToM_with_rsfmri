@@ -13,7 +13,9 @@ Utilisation de l'atlas BASC (Bootstrap Analysis of Stable Clusters) à 64 parcel
 Modèle
 Validation croisée k-fold sur des données d'entraînement: 85 sujets
 Évaluation des performances sur l’ensemble de test: 37 sujets
-**R2 = 0.27**
+
+> [!NOTE]
+>  **R2 = 0.27**
 
 <img width="567" height="437" alt="image" src="https://github.com/user-attachments/assets/24f6dba4-157b-4afb-b68b-aaced8689845" />
 
