@@ -73,9 +73,19 @@ Plutôt que d'utiliser toutes les connexions fonctionnelles, ce modèle se restr
 
 ### 🧠 Modèle ToM Network
 Richardson et al (2018) ont montré que le réseau de théorie de l'esprit serait déjà différencié dès 3 ans. Dans son réseau Richardson y incluesÈ
-- # TPJ
-- # PCC
-- # dmPFC
-- # vmPFC
+- TPJ
+- PCC
+- dmPFC
+- vmPFC
 
-J'ai donc créer un réseau en me basant sur ses régions
+Ce modèle cible spécifiquement 16 ROIs associées à la théorie de l'esprit dans la littérature : la jonction temporo-pariétale (TPJ), le cortex cingulaire postérieur (PCC), le cortex préfrontal médian dorsal (dmPFC) et ventral (vmPFC). Ces régions génèrent **120 features** de connectivité.
+
+| Métrique | Résultat |
+|---|---|
+| R² | -0.74 |
+| Variance expliquée | -0.68 |
+| MAE | 0.211 |
+| Median AE | 0.164 |
+
+> [!CAUTION]
+> C'est le modèle le plus faible testé jusqu'ici. Cibler uniquement les régions ToM connues ne suffit pas — et l'optimisation des hyperparamètres n'y change rien. La connectivité fonctionnelle de ces régions, dans ce jeu de données, ne semble pas prédire le ToM de façon fiable.
