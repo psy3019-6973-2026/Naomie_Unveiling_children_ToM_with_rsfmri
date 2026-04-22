@@ -46,3 +46,11 @@ Plusieurs stratégies ont été explorées pour tenter d'améliorer les performa
 
 > [!CAUTION]
 > Il est possible de convenir que le repo n'est **PAS** REPRODUCTIBLE à cette étape.
+
+Voici la matrice de corrélation original
+<img width="835" height="661" alt="image" src="https://github.com/user-attachments/assets/c99f439a-5bc3-4147-b20c-92753fcde10d" />
+
+Voici la matrice de corrélation avec le nouvelle atlas
+<img width="913" height="811" alt="image" src="https://github.com/user-attachments/assets/a142526a-cab2-4630-99eb-50c2b27c9d1a" />
+
+
