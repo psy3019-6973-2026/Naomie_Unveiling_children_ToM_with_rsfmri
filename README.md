@@ -131,3 +131,12 @@ Plusieurs améliorations ont été apportées par rapport au connectogramme pré
 
 <img width="809" height="653" alt="image" src="https://github.com/user-attachments/assets/036e32dd-1167-4f03-834f-9d9b16d9baa2" />
 
+## 🎨 Deuxième améliorations visuelles du connectogramme
+
+- Ajout de connectomes au-dessus de chaque réseau pour mieux situer les régions dans le cerveau
+
+  <img width="910" height="720" alt="connectogramme" src="https://github.com/user-attachments/assets/7d33c0c6-d413-4ee5-b448-6495f60595b3" />
+
+> [!NOTE]
+> 
+
