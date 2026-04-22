@@ -24,7 +24,25 @@ Validation croisée k-fold sur des données d'entraînement: 85 sujets
 
 La reproduction de ce projet a rencontré plusieurs obstacles. D'abord, l'atlas original (BASC) a été remplacé par l'atlas Schaefer à 100 ROIs. En raison des limites de mémoire locale, le code a d'abord été développé sur un sous-ensemble de 37 participants, puis exécuté sur Google Colab avec les 155 participants disponibles — sans amélioration notable (R² = -0.09).
 
+<img width="567" height="432" alt="image" src="https://github.com/user-attachments/assets/85e98425-a7ae-447c-bce5-5209287c365b" />
+
+
 De façon surprenante, en revenant à l'atlas BASC original sans aucune autre modification, les performances ont chuté davantage (R² = -0.27), ce qui soulève des questions sur la stabilité du pipeline.
 
 > [!CAUTION]
 > Le dépôt original ne contient aucun fichier `requirements.txt`, rendant impossible la reproduction exacte des versions des packages utilisés.
+
+## Tentatives d'amélioration
+
+Plusieurs stratégies ont été explorées pour tenter d'améliorer les performances du modèle, sans succès.
+
+1. La réduction de dimensionnalité par PCA
+2. La sélection de features par KBest ont toutes deux été testées, cette dernière donnant des résultats encore plus faibles.
+3. Des transformations logarithmique et racine carrée ont été appliquées: sans amélioration notable.
+4. L'optimisation des hyperparamètres via GridSearchCV a également été tentée dans chacun de ces cas, sans succès.
+
+> [!NOTE]
+> Malgré l'ensemble de ces tentatives, aucune configuration n'a permis d'obtenir un R² positif satisfaisant.
+
+> [!CAUTION]
+> Il est possible de convenir que le repo n'est **PAS** REPRODUCTIBLE à cette étape.
