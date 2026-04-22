@@ -189,4 +189,3 @@ invoke clean
 | `invoke.yaml` | Configuration du pipeline |
 | `requirements.txt` | Dépendances Python |
 | `logbook.md` | Journal de bord du projet |
-| `ex0_chord.png` | Connectogramme exporté |
