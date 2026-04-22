@@ -142,6 +142,8 @@ Plusieurs améliorations ont été apportées par rapport au connectogramme pré
 > Les connectomes superposés au connectogramme ont été créés sur Canva (forfait Pro) et ne font donc pas partie du code reproductible.
 
 # :toolbox: Reproduire le projet
+> [!TIP]
+>  Si votre ordinateur a peu de RAM, je vous recommande d'exécuter le notebook `v2_Rioux_recreation_ToM.ipynb` sur Google Colab plutôt qu'en local avec ce pipeline.
 
 ### Prérequis
 - Python 3.8+
@@ -175,3 +177,16 @@ Le notebook exécuté sera sauvegardé dans le dossier `output/` en format `.ipy
 ```bash
 invoke clean
 ```
+## 📁 Structure du repo
+
+| Fichier/Dossier | Description |
+|---|---|
+| `Rioux_recreation_ToM.ipynb` | Notebook principal (version initiale) |
+| `v2_Rioux_recreation_ToM.ipynb` | Notebook final avec toutes les analyses |
+| `Reproduction_Final_Project_Unveiling_the_The...` | Rapport de reproduction |
+| `original_repo_2023/` | Repo original de Lin & Lin (2023) |
+| `tasks.py` | Pipeline automatisé invoke |
+| `invoke.yaml` | Configuration du pipeline |
+| `requirements.txt` | Dépendances Python |
+| `logbook.md` | Journal de bord du projet |
+| `ex0_chord.png` | Connectogramme exporté |
