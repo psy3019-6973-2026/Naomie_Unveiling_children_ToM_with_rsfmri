@@ -181,7 +181,6 @@ invoke clean
 
 | Fichier/Dossier | Description |
 |---|---|
-| `Rioux_recreation_ToM.ipynb` | Notebook principal (version initiale) |
 | `v2_Rioux_recreation_ToM.ipynb` | Notebook final avec toutes les analyses |
 | `Reproduction_Final_Project_Unveiling_the_The...` | Rapport de reproduction |
 | `original_repo_2023/` | Repo original de Lin & Lin (2023) |
