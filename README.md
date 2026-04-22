@@ -110,3 +110,7 @@ Le modèle cerveau entier performe légèrement mieux que le hasard et reste le 
 
 > [!CAUTION]
 > Aucun modèle ne performe de façon convaincante, que ce soit en régression ou en classification. La connectivité fonctionnelle mesurée dans ce jeu de données ne semble pas suffisante pour prédire le ToM chez les enfants de façon fiable.
+
+> [!TIP]
+> J'avais trouver ce blog qui montrait comment comparer des modèles : https://www.maartengrootendorst.com/blog/validate/
+> Comme les modèles n'étaient pas satisfaisant la comparaison n'a pas marcher, mais les informations semblent pertinentes si jamais vos modèles semblent fonctionner!
