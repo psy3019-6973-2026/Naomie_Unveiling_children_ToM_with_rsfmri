@@ -20,3 +20,11 @@ Validation croisée k-fold sur des données d'entraînement: 85 sujets
 <img width="567" height="437" alt="image" src="https://github.com/user-attachments/assets/24f6dba4-157b-4afb-b68b-aaced8689845" />
 
 # **Tâche 1: Reproduire le notebook**
+## Défis de reproduction
+
+La reproduction de ce projet a rencontré plusieurs obstacles. D'abord, l'atlas original (BASC) a été remplacé par l'atlas Schaefer à 100 ROIs. En raison des limites de mémoire locale, le code a d'abord été développé sur un sous-ensemble de 37 participants, puis exécuté sur Google Colab avec les 155 participants disponibles — sans amélioration notable (R² = -0.09).
+
+De façon surprenante, en revenant à l'atlas BASC original sans aucune autre modification, les performances ont chuté davantage (R² = -0.27), ce qui soulève des questions sur la stabilité du pipeline.
+
+> [!CAUTION]
+> Le dépôt original ne contient aucun fichier `requirements.txt`, rendant impossible la reproduction exacte des versions des packages utilisés.
