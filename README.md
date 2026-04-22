@@ -137,6 +137,6 @@ Plusieurs améliorations ont été apportées par rapport au connectogramme pré
 
   <img width="910" height="720" alt="connectogramme" src="https://github.com/user-attachments/assets/7d33c0c6-d413-4ee5-b448-6495f60595b3" />
 
-> [!NOTE]
-> Les connectomes superposés au connectogramme ont été créés sur Canva (forfait Pro) et ne font donc pas partie du code reproductible.
+  > [!NOTE]
+  > Les connectomes superposés au connectogramme ont été créés sur Canva (forfait Pro) et ne font donc pas partie du code reproductible.
 
