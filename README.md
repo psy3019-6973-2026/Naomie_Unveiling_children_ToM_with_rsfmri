@@ -120,3 +120,11 @@ Le modèle cerveau entier performe légèrement mieux que le hasard et reste le 
 Voici le connectogramme des 100 connexions les plus fortes pour le modèle cerveau entier
 <img width="729" height="771" alt="image" src="https://github.com/user-attachments/assets/34319d33-02cf-4c93-9055-c4a741987bf0" />
 
+## 🎨 Améliorations visuelles du connectogramme
+
+Plusieurs améliorations ont été apportées par rapport au connectogramme précédent :
+
+- **Fond blanc** pour une meilleure lisibilité
+- **Nœuds regroupés et triés par réseau fonctionnel** pour faciliter la lecture des connexions intra- et inter-réseaux
+- **Couleurs par réseau** en utilisant une palette adaptée aux daltoniens (Vis, SomMot, DorsAttn, SalVentAttn, Limbic, Cont, Default)
+- **Légende** ajoutée pour identifier les réseaux
