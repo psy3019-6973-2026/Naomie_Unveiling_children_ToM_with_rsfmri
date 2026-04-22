@@ -128,3 +128,6 @@ Plusieurs améliorations ont été apportées par rapport au connectogramme pré
 - **Nœuds regroupés et triés par réseau fonctionnel** pour faciliter la lecture des connexions intra- et inter-réseaux
 - **Couleurs par réseau** en utilisant une palette adaptée aux daltoniens (Vis, SomMot, DorsAttn, SalVentAttn, Limbic, Cont, Default)
 - **Légende** ajoutée pour identifier les réseaux
+
+<img width="809" height="653" alt="image" src="https://github.com/user-attachments/assets/036e32dd-1167-4f03-834f-9d9b16d9baa2" />
+
