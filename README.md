@@ -141,3 +141,37 @@ Plusieurs améliorations ont été apportées par rapport au connectogramme pré
 > [!NOTE]
 > Les connectomes superposés au connectogramme ont été créés sur Canva (forfait Pro) et ne font donc pas partie du code reproductible.
 
+# :toolbox: Reproduire le projet
+
+### Prérequis
+- Python 3.8+
+- Jupyter Notebook
+
+### Étapes
+
+**1. Cloner le repo**
+```bash
+git clone https://github.com/psy3019-6973-2026/Naomie_Unveiling_children_ToM_with_rsfmri.git
+cd Naomie_Unveiling_children_ToM_with_rsfmri
+```
+
+**2. Installer les dépendances**
+```bash
+invoke setup
+```
+
+**3. Télécharger les données**
+```bash
+invoke fetch
+```
+
+**4. Rouler le notebook**
+```bash
+invoke run
+```
+Le notebook exécuté sera sauvegardé dans le dossier `output/` en format `.ipynb` et `.html`.
+
+**5. Nettoyer les outputs (optionnel)**
+```bash
+invoke clean
+```
