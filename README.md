@@ -159,7 +159,7 @@ Connectogramme du ToM network
 
 # :toolbox: Reproduire le projet
 > [!TIP]
->  Si votre ordinateur a peu de RAM, je vous recommande d'exécuter le notebook `v2_Rioux_recreation_ToM.ipynb` sur Google Colab plutôt qu'en local avec ce pipeline.
+>  Si votre ordinateur a peu de RAM, je vous recommande d'exécuter le notebook `Final_Rioux_recreation_ToM.ipynb` sur Google Colab plutôt qu'en local avec ce pipeline.
 
 ### Prérequis
 - Python 3.8+
