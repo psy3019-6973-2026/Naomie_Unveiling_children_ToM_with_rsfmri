@@ -14,8 +14,7 @@ Modèle
 Validation croisée k-fold sur des données d'entraînement: 85 sujets
 Évaluation des performances sur l’ensemble de test: 37 sujets
 
-> [!NOTE]
->  **R2 = 0.27**
+**R2 = 0.27**
 
 <img width="567" height="437" alt="image" src="https://github.com/user-attachments/assets/24f6dba4-157b-4afb-b68b-aaced8689845" />
 
@@ -181,7 +180,7 @@ invoke clean
 
 | Fichier/Dossier | Description |
 |---|---|
-| `v2_Rioux_recreation_ToM.ipynb` | Notebook final avec toutes les analyses |
+| `Final_Rioux_recreation_ToM.ipynb` | Notebook final avec toutes les analyses |
 | `original_repo_2023/` | Repo original de Lin & Lin (2023) + rapport de reproduction |
 | `tasks.py` | Pipeline automatisé invoke |
 | `invoke.yaml` | Configuration du pipeline |
