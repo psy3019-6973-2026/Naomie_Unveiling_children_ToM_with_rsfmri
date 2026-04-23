@@ -99,11 +99,9 @@ Ce modèle cible spécifiquement 16 ROIs associées à la théorie de l'esprit d
 ### Classifications
 Face aux faibles performances en régression, une approche par classification binaire (ToM élevé vs faible) a été testée sur les trois ensembles de features.
 
-
+#### Résultats
 <img width="511" height="413" alt="image" src="https://github.com/user-attachments/assets/995add96-b1d4-4b1e-b964-8c1a0b2a0fbe" />
 
-
-#### Résultats
 **Accuracy des modèles sans et avec hyperparamètres**
 | Modèle | Balanced Accuracy | Balanced Accuracy (best fit) |
 |---|---|---|
