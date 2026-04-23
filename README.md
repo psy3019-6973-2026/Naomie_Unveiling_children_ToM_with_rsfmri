@@ -100,7 +100,7 @@ Face aux faibles performances en régression, une approche par classification bi
 
 
 #### Résultats
-**Accuracy des modèles avec hyperparamètres**
+**Accuracy des modèles sans et avec hyperparamètres**
 | Modèle | Balanced Accuracy | Balanced Accuracy (best fit) |
 |---|---|---|
 | Cerveau entier | 0.490 | 0.609 |
