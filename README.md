@@ -33,7 +33,7 @@ La reproduction de ce projet a rencontré plusieurs obstacles. D'abord, l'atlas 
 <img width="567" height="432" alt="image" src="https://github.com/user-attachments/assets/85e98425-a7ae-447c-bce5-5209287c365b" />
 
 ## Retester le code ORIGINAL
-De façon surprenante, en revenant à l'atlas BASC original sans **aucune autre modification** du code original, les performances ont chuté davantage (R² = -0.27), ce qui soulève des questions sur la stabilité du pipeline.
+De façon surprenante, en revenant à l'atlas BASC original sans **aucune autre modification** du code original, les performances ont chuté davantage (R² = -0.27), ce qui soulève des questions sur la stabilité du pipeline. (vous pouvez trouvez cela  dans `original_repo_2023/Reprodduction_Rioux_recreation_ToM.ipynb`)
 
 > [!WARNING]
 > Le dépôt original ne contient aucun fichier `requirements.txt`, rendant impossible la reproduction exacte des versions des packages utilisés.
