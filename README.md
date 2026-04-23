@@ -101,7 +101,7 @@ Face aux faibles performances en régression, une approche par classification bi
 
 #### Résultats
 <img width="511" height="413" alt="image" src="https://github.com/user-attachments/assets/995add96-b1d4-4b1e-b964-8c1a0b2a0fbe" />
-* Exemple de matrice de confusion pour le cerveau entier *
+*Exemple de matrice de confusion pour le cerveau entier*
 
 **Accuracy des modèles sans et avec hyperparamètres**
 | Modèle | Balanced Accuracy | Balanced Accuracy (best fit) |
