@@ -164,6 +164,7 @@ Connectogramme du DMN
 Connectogramme du ToM network
 <img width="681" height="653" alt="image" src="https://github.com/user-attachments/assets/8c8d3711-4621-4b88-ac32-c555bfa8b5db" />
 
+
 # ** Conclusion **
 Ce projet montre que contrairement au projet initial, la connectivité fonctionnelle au repos ne semble ni prédire ni classifier les performances au tâches de la théorie de l'esprit.
 
