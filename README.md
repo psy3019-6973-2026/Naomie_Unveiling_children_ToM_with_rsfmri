@@ -252,4 +252,6 @@ MNE Connectivity developers. (s.d.). plot_connectivity_circle. MNE-Connectivity.
 
 Richardson, H., Lisandrelli, G., Riobueno-Naylor, A. et al. Development of the social brain from age three to twelve years. Nat Commun 9, 1027 (2018). https://doi.org/10.1038/s41467-018-03399-2
 
+Sotomayor-Enríquez, K., Gweon, H., Saxe, R., & Richardson, H. (2023, August 28). Open dataset of theory of mind reasoning in early to middle childhood. OSF. https://doi.org/10.31234/osf.io/gczp9 
+
 Yeo, B. T. T., Krienen, F. M., Sepulcre, J., Sabuncu, M. R., Lashkari, D., Hollinshead, M., Roffman, J. L., Smoller, J. W., Zöllei, L., Polimeni, J. R., Fischl, B., Liu, H., & Buckner, R. L. (2011). The organization of the human cerebral cortex estimated by intrinsic functional connectivity. Journal of Neurophysiology, 106(3), 1125–1165. https://doi.org/10.1152/jn.00338.2011
