@@ -225,7 +225,7 @@ invoke clean
 | `LICENSE` | Licence MIT du projet |
 
 # Utilisation de l'intelligence artificielle
-<img width="964" height="402" alt="image" src="https://github.com/user-attachments/assets/42e4a652-9a5f-4c06-936a-fc659c45a570" />
+<img width="964" height="402" alt="image" src="https://github.com/user-attachments/assets/42e4a652-9a5f-4c06-936a-fc659c45a570" width="100"/>
 
 Le logiciel Claude a été utlisé afin de comprendre
 * déchiffrer les messages d'erreurs
