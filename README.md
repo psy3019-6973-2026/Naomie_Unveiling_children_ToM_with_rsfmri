@@ -35,11 +35,11 @@ De façon surprenante, en revenant à l'atlas BASC original sans **aucune autre 
 
 Plusieurs stratégies ont été explorées pour tenter d'améliorer les performances du modèle, sans succès.
 
-1. La réduction de dimensionnalité par PCA <img width="543" height="436" alt="image" src="https://github.com/user-attachments/assets/bf320feb-6123-4eee-857b-eddcc02b7e4b" />
-
-2. La sélection de features par KBest ont toutes deux été testées, cette dernière donnant des résultats encore plus faibles.
-3. Des transformations logarithmique et racine carrée ont été appliquées: sans amélioration notable.
+1. La réduction de dimensionnalité par PCA 
+2. La sélection de features par KBest ont été testées, cette dernière donnant des résultats encore plus faibles.
+3. Des transformations logarithmique et racine carrée ont été appliquées. <img width="543" height="436" alt="image" src="https://github.com/user-attachments/assets/bf320feb-6123-4eee-857b-eddcc02b7e4b" />
 4. L'optimisation des hyperparamètres via GridSearchCV a également été tentée dans chacun de ces cas, sans succès.
+5. Une stratification à 2 groupes a été testée, cette dernière donnant des résultats encore plus faibles.
 
 > [!NOTE]
 > Malgré l'ensemble de ces tentatives, aucune configuration n'a permis d'obtenir un R² positif satisfaisant.
