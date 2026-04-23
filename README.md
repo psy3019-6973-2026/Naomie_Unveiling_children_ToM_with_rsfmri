@@ -169,7 +169,7 @@ Connectogramme du ToM network
 Ce projet montre que contrairement au projet initial, la connectivité fonctionnelle au repos ne semble ni prédire ni classifier les performances au tâches de la théorie de l'esprit.
 
 ## Piste d'explication
-- Tâche de théorie de l'esprit trop facile
+- Tâche de théorie de l'esprit trop facile (pour voir les questions: https://osf.io/g5zpv/files/osfstorage )
 - Non utilisation d'un atlas pour enfant
 
 ## Piste future
