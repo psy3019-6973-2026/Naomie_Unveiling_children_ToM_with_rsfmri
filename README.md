@@ -227,12 +227,12 @@ invoke clean
 # Utilisation de l'intelligence artificielle
 <img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/42e4a652-9a5f-4c06-936a-fc659c45a570"/>
 
-Le logiciel Claude a été utlisé afin de comprendre
+Le logiciel Claude a été utlisé pour:
 * déchiffrer les messages d'erreurs
 * aider à trouver des solutions pour améliorer mon modèle
 * comprendre les différents hyperparamètres
 
-Le logiciel Copilot a été utilisé pour
+Le logiciel Copilot a été utilisé pour:
 * générer les messages de commits
 
 ## **Références**
