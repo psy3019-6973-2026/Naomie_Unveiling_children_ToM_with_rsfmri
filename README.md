@@ -106,7 +106,7 @@ Face aux faibles performances en régression, une approche par classification bi
 **Accuracy des modèles sans et avec hyperparamètres**
 | Modèle | Balanced Accuracy | Balanced Accuracy (best fit) |
 |---|---|---|
-| Cerveau entier | 0.490 | 0.609 |
+| Cerveau entier | 0.490 | 0.561 |
 | DMN | 0.449 | 0.609 |
 | ToM-ROIs | 0.426 |  0.475 |
 
