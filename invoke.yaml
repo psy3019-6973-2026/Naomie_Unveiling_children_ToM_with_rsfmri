@@ -1,7 +1,7 @@
 # invoke.yaml — Configuration du pipeline Rioux_recreation_ToM
 
 # Nom du notebook principal à exécuter
-notebook: v2_Rioux_recreation_ToM.ipynb
+notebook: Final_Rioux_recreation_ToM.ipynb
 
 # Fichier de dépendances
 requirements_file: requirements.txt
