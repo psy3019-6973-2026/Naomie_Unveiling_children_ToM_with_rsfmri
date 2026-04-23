@@ -74,7 +74,7 @@ Plutôt que d'utiliser toutes les connexions fonctionnelles, ce modèle se restr
 > Restreindre les features au DMN détériore les performances par rapport au modèle complet (R² = -0.27 → -0.51), suggérant que la connectivité intra-DMN seule n'est pas suffisante pour prédire le ToM chez les enfants.
 
 ### 🧠 Modèle ToM Network
-Richardson et al (2018) ont montré que le réseau de théorie de l'esprit serait déjà différencié dès 3 ans. Dans son réseau Richardson y incluesÈ
+Richardson et al (2018) ont montré que le réseau de théorie de l'esprit serait déjà différencié dès 3 ans. Dans son réseau Richardson y inclues :
 - TPJ
 - PCC
 - dmPFC
