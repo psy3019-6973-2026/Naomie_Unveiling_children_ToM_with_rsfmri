@@ -7,9 +7,9 @@ Un jeu de données d'IRMf au repos prétraité provenant du Nilearn Development 
 MIT
 
 ## **Données**
-122 enfants
-Âge moyen 6,71 ans (3–12 ans)
-Score TdE moyen = 0,775
+* 122 enfants
+* Âge moyen 6,71 ans (3–12 ans)
+* Score TdE moyen = 0,775
 
 ## **Projet original**
 Utilisation de l'atlas BASC (Bootstrap Analysis of Stable Clusters) à 64 parcelles pour extraire les séries temporelles
