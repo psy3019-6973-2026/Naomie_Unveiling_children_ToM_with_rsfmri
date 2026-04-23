@@ -29,9 +29,7 @@ Validation croisée k-fold sur des données d'entraînement: 85 sujets
 # **Tâche 1: Reproduire le notebook**
 ## Défis de reproduction
 
-La reproduction de ce projet a rencontré plusieurs obstacles. D'abord, l'atlas original (BASC) a été remplacé par l'atlas Schaefer à 100 ROIs. En raison des limites de mémoire locale, le code a d'abord été développé sur un sous-ensemble de 37 participants, puis exécuté sur Google Colab avec les 155 participants disponibles — sans amélioration notable (R² = -0.09).
-
-<img width="567" height="432" alt="image" src="https://github.com/user-attachments/assets/85e98425-a7ae-447c-bce5-5209287c365b" />
+La reproduction de ce projet a rencontré plusieurs obstacles. D'abord, l'atlas original (BASC) a été remplacé par l'atlas Schaefer à 100 ROIs. En raison des limites de mémoire locale, le code a d'abord été développé sur un sous-ensemble de 37 participants, puis exécuté sur Google Colab avec les 155 participants disponibles sans amélioration notable **(R² = -0.09)**.
 
 ## Retester le code ORIGINAL
 De façon surprenante, en revenant à l'atlas BASC original sans **aucune autre modification** du code original, les performances ont chuté davantage (R² = -0.27), ce qui soulève des questions sur la stabilité du pipeline. (vous pouvez trouvez cela  dans `original_repo_2023/Reproduction_Final_Project_Unveiling_the_Theory_of_Mind_with_rs_fMRI.ipynb`)
