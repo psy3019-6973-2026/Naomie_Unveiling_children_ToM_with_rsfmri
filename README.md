@@ -159,10 +159,11 @@ Plusieurs améliorations ont été apportées par rapport au connectogramme pré
 
 Connectogramme du DMN
 <img width="681" height="653" alt="image" src="https://github.com/user-attachments/assets/fee960f1-a2ee-4ed6-ada5-226e16989176" />
+*Note. À gauche son les régions de l'hémisphères gauche et à droite celle de l'hémisphère droit.*
 
 Connectogramme du ToM network
 <img width="681" height="653" alt="image" src="https://github.com/user-attachments/assets/8c8d3711-4621-4b88-ac32-c555bfa8b5db" />
-
+*Note. À gauche son les régions de l'hémisphères gauche et à droite celle de l'hémisphère droit.*
 
 # Conclusion
 Ce projet montre que contrairement au projet initial, la connectivité fonctionnelle au repos ne semble ni prédire ni classifier les performances au tâches de la théorie de l'esprit.
@@ -222,6 +223,17 @@ invoke clean
 | `requirements.txt` | Dépendances Python |
 | `logbook.md` | Journal de bord du projet |
 | `LICENSE` | Licence MIT du projet |
+
+# Utilisation de l'intelligence artificielle
+<img width="964" height="402" alt="image" src="https://github.com/user-attachments/assets/42e4a652-9a5f-4c06-936a-fc659c45a570" />
+
+Le logiciel Claude a été utlisé afin de comprendre
+* déchiffrer les messages d'erreurs
+* aider à trouver des solutions pour améliorer mon modèle
+* comprendre les différents hyperparamètres
+
+Le logiciel Copilot a été utilisé pour
+* générer les messages de commits
 
 ## **Références**
 Duke University Department of Immunobiology. (2023). Colorblind-friendly color palette. https://immunobiology.duke.edu/sites/default/files/2023-04/Colorblind-Palette.pdf
