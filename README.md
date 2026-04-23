@@ -106,9 +106,9 @@ Face aux faibles performances en régression, une approche par classification bi
 > [!NOTE]
 > Le hasard correspond à une balanced accuracy de 0.50. Les modèles se situent tous près de ce seuil, ce qui indique des performances très modestes.
 
-#### Observations
+#### Observations générales
 
-Le modèle cerveau entier performe légèrement mieux que le hasard et reste le plus stable entre la validation croisée et le test. Le DMN obtient la meilleure balanced accuracy en CV (0.663), mais ce résultat n'a pas pu être confirmé sur le test. Les features ToM-ROIs sont celles qui généralisent le moins bien, avec une chute importante entre le CV et le test (0.625 → 0.475).
+Tant au niveau de modèles de prédictions que de classifications, les features ToM-ROIs sont celles qui généralisent le moins bien.
 
 > [!CAUTION]
 > Aucun modèle ne performe de façon convaincante, que ce soit en régression ou en classification. La connectivité fonctionnelle mesurée dans ce jeu de données ne semble pas suffisante pour prédire le ToM chez les enfants de façon fiable.
