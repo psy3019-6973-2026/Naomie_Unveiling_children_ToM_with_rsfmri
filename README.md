@@ -31,7 +31,7 @@ La reproduction de ce projet a rencontré plusieurs obstacles. D'abord, l'atlas 
 De façon surprenante, en revenant à l'atlas BASC original sans **aucune autre modification** du code original, les performances ont chuté davantage (R² = -0.27), ce qui soulève des questions sur la stabilité du pipeline.
 
 > [!WARNING]
-> Le dépôt original ne contient aucun fichier `requirements.txt`, rendant impossible la reproduction exacte des versions des packages utilisés. :unamused:
+> Le dépôt original ne contient aucun fichier `requirements.txt`, rendant impossible la reproduction exacte des versions des packages utilisés.
 
 ## Tentatives d'amélioration :thinking:
 
