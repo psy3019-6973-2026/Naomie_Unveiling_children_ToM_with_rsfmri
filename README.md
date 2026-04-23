@@ -116,6 +116,9 @@ Le modèle cerveau entier performe légèrement mieux que le hasard et reste le 
 > Comme les modèles n'étaient pas satisfaisant la comparaison n'a pas marcher, mais les informations semblent pertinentes si jamais vos modèles semblent fonctionner!
 
 # **Tâche 3: Création d'un connectogramme**
+Voici la page pour créer des connectogrammes: 
+* https://mne.tools/mne-connectivity/dev/generated/mne_connectivity.viz.plot_connectivity_circle.html
+* https://mne.tools/mne-connectivity/stable/auto_examples/mne_inverse_label_connectivity.html
 
 Voici le connectogramme des 100 connexions les plus fortes pour le modèle cerveau entier
 <img width="729" height="771" alt="image" src="https://github.com/user-attachments/assets/34319d33-02cf-4c93-9055-c4a741987bf0" />
