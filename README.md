@@ -145,6 +145,14 @@ Plusieurs améliorations ont été apportées par rapport au connectogramme pré
 > [!NOTE]
 > Les connectomes superposés au connectogramme ont été créés sur Canva (forfait Pro) et ne font donc pas partie du code reproductible.
 
+## 🎨 Création de connectogramme pour le DMN et le ToM network
+
+Connectogramme du DMN
+<img width="681" height="653" alt="image" src="https://github.com/user-attachments/assets/fee960f1-a2ee-4ed6-ada5-226e16989176" />
+
+Connectogramme du ToM network
+<img width="681" height="653" alt="image" src="https://github.com/user-attachments/assets/8c8d3711-4621-4b88-ac32-c555bfa8b5db" />
+
 # :toolbox: Reproduire le projet
 > [!TIP]
 >  Si votre ordinateur a peu de RAM, je vous recommande d'exécuter le notebook `v2_Rioux_recreation_ToM.ipynb` sur Google Colab plutôt qu'en local avec ce pipeline.
