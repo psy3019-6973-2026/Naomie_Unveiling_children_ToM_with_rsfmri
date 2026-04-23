@@ -39,10 +39,11 @@ Plusieurs stratégies ont été explorées pour tenter d'améliorer les performa
 
 1. La réduction de dimensionnalité par PCA 
 2. La sélection de features par KBest ont été testées, cette dernière donnant des résultats encore plus faibles.
-3. Des transformations logarithmique et racine carrée ont été appliquées. <img width="556" height="435" alt="image" src="https://github.com/user-attachments/assets/e1c7976b-0b70-412e-aab9-859c2e475d28" />
+3. Des transformations logarithmique et racine carrée ont été appliquées.
+<img width="556" height="435" alt="image" src="https://github.com/user-attachments/assets/e1c7976b-0b70-412e-aab9-859c2e475d28" />
 <img width="543" height="436" alt="image" src="https://github.com/user-attachments/assets/bf320feb-6123-4eee-857b-eddcc02b7e4b" />
-4. L'optimisation des hyperparamètres via GridSearchCV a également été tentée dans chacun de ces cas, sans succès.
-5. Une stratification à 2 groupes a été testée, cette dernière donnant des résultats encore plus faibles.
+5. L'optimisation des hyperparamètres via GridSearchCV a également été tentée dans chacun de ces cas, sans succès.
+6. Une stratification à 2 groupes a été testée, cette dernière donnant des résultats encore plus faibles.
 
 > [!NOTE]
 > Malgré l'ensemble de ces tentatives, aucune configuration n'a permis d'obtenir un R² positif satisfaisant.
