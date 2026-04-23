@@ -195,8 +195,19 @@ invoke clean
 
 ## **Références**
 Duke University Department of Immunobiology. (2023). Colorblind-friendly color palette. https://immunobiology.duke.edu/sites/default/files/2023-04/Colorblind-Palette.pdf
+
 Grootendorst, M. (s.d.). How to validate your ML model. https://www.maartengrootendorst.com/blog/validate/ 
+
+Lin, S.-Y., & Lin, W.-H. (2023, June 23). Unveiling children's theory of mind with rs-fMRI [GitHub repository]. GitHub. https://github.com/WeiHungLin/Unveiling_children_ToM_with_rsfmri
+
 Matplotlib Development Team. (s.d.). matplotlib.patches.Patch. Matplotlib. https://matplotlib.org/stable/api/_as_gen/matplotlib.patches.Patch.html
+
 Matplotlib Development Team. (s.d.). matplotlib.pyplot.legend. Matplotlib. https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.legend.html
+
 MNE Connectivity developers. (s.d.). Label connectivity. MNE-Connectivity. https://mne.tools/mne-connectivity/stable/auto_examples/mne_inverse_label_connectivity.html
+
 MNE Connectivity developers. (s.d.). plot_connectivity_circle. MNE-Connectivity. https://mne.tools/mne-connectivity/dev/generated/mne_connectivity.viz.plot_connectivity_circle.html 
+
+Richardson, H., Lisandrelli, G., Riobueno-Naylor, A. et al. Development of the social brain from age three to twelve years. Nat Commun 9, 1027 (2018). https://doi.org/10.1038/s41467-018-03399-2
+
+Yeo, B. T. T., Krienen, F. M., Sepulcre, J., Sabuncu, M. R., Lashkari, D., Hollinshead, M., Roffman, J. L., Smoller, J. W., Zöllei, L., Polimeni, J. R., Fischl, B., Liu, H., & Buckner, R. L. (2011). The organization of the human cerebral cortex estimated by intrinsic functional connectivity. Journal of Neurophysiology, 106(3), 1125–1165. https://doi.org/10.1152/jn.00338.2011
