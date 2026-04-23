@@ -192,3 +192,11 @@ invoke clean
 | `requirements.txt` | Dépendances Python |
 | `logbook.md` | Journal de bord du projet |
 | `LICENSE` | Licence MIT du projet |
+
+## **Références**
+Duke University Department of Immunobiology. (2023). Colorblind-friendly color palette. https://immunobiology.duke.edu/sites/default/files/2023-04/Colorblind-Palette.pdf
+Grootendorst, M. (s.d.). How to validate your ML model. https://www.maartengrootendorst.com/blog/validate/ 
+Matplotlib Development Team. (s.d.). matplotlib.patches.Patch. Matplotlib. https://matplotlib.org/stable/api/_as_gen/matplotlib.patches.Patch.html
+Matplotlib Development Team. (s.d.). matplotlib.pyplot.legend. Matplotlib. https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.legend.html
+MNE Connectivity developers. (s.d.). Label connectivity. MNE-Connectivity. https://mne.tools/mne-connectivity/stable/auto_examples/mne_inverse_label_connectivity.html
+MNE Connectivity developers. (s.d.). plot_connectivity_circle. MNE-Connectivity. https://mne.tools/mne-connectivity/dev/generated/mne_connectivity.viz.plot_connectivity_circle.html 
