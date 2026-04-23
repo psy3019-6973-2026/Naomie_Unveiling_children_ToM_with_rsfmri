@@ -110,6 +110,14 @@ Face aux faibles performances en régression, une approche par classification bi
 | DMN | 0.449 | 0.609 |
 | ToM-ROIs | 0.426 |  0.475 |
 
+**Accuracy des modèles sans et avec hyperparamètres CV**
+| Modèle | Balanced Accuracy | Balanced Accuracy (best fit) |
+|---|---|---|
+| Cerveau entier | 0.566 | 0.603 |
+| DMN | 0.504 | 0.663 |
+| ToM-ROIs | 0.542 |  0.625 |
+
+
 > [!NOTE]
 > Le hasard correspond à une balanced accuracy de 0.50. Les modèles se situent tous près de ce seuil, ce qui indique des performances très modestes.
 
