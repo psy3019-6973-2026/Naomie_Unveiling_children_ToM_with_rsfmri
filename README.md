@@ -10,6 +10,11 @@ MIT
 * 122 enfants
 * Âge moyen 6,71 ans (3–12 ans)
 * Score TdE moyen = 0,775
+* Les participants ont été divisés en 4 groupes selon leur score ToM :
+  - faible (0.2–0.4)
+  - modéré-bas (0.4–0.6)
+  - modéré-élevé (0.6–0.8)
+  - élevé (0.8–1.0).
 
 ## **Projet original**
 Utilisation de l'atlas BASC (Bootstrap Analysis of Stable Clusters) à 64 parcelles pour extraire les séries temporelles
