@@ -31,7 +31,7 @@ réduction du nombre de sujets :
 
 Solution retenue :
 
-exécution du pipeline sur Google Colab pour stabiliser l’environnement computationnel
+exécution du pipeline sur Google Colab pour stabiliser l’environnement
 
 3. **Modélisation prédictive du ToM (régression)**
 3.1 Configuration initiale
